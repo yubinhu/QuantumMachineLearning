@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex final_report"] 1639436748 "final_report.aux" "final_report.bbl" "final_report" 1642829133
+["bibtex final_report"] 1639436748 "final_report.aux" "final_report.bbl" "final_report" 1642833288
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/natbib/unsrtnat.bst" 1233624470 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
-  "final_report.aux" 1642829133 3862 a4f4a6b60c18ce11aaf7caa518898c81 "pdflatex"
+  "final_report.aux" 1642833243 3862 a4f4a6b60c18ce11aaf7caa518898c81 "pdflatex"
   "references.bib" 1639434182 11928 6dde45d124811771bddb54f028c42108 ""
   (generated)
-  "final_report.bbl"
   "final_report.blg"
-["pdflatex"] 1642829132 "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final report.tex" "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final_report.pdf" "final_report" 1642829133
-  "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final report.tex" 1642829130 17807 cb4ad0a986e4565e5198c158cb70cff1 ""
-  "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final_report.aux" 1642829133 3862 a4f4a6b60c18ce11aaf7caa518898c81 ""
+  "final_report.bbl"
+["pdflatex"] 1642833242 "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final report.tex" "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final_report.pdf" "final_report" 1642833288
+  "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final report.tex" 1642833236 17798 ccff34bd3e84e002070fc5c3f5b4019a ""
+  "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final_report.aux" 1642833243 3862 a4f4a6b60c18ce11aaf7caa518898c81 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -110,14 +110,14 @@
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "BM.png" 1639350187 21948 36fda45f8986714896f247e648395ca9 ""
   "FIG2.png" 1639355458 89351 d7ffc81b6ca80a46743b5758c8458915 ""
-  "final report.tex" 1642829130 17807 cb4ad0a986e4565e5198c158cb70cff1 ""
-  "final_report.aux" 1642829133 3862 a4f4a6b60c18ce11aaf7caa518898c81 "pdflatex"
+  "final report.tex" 1642833236 17798 ccff34bd3e84e002070fc5c3f5b4019a ""
+  "final_report.aux" 1642833243 3862 a4f4a6b60c18ce11aaf7caa518898c81 "pdflatex"
   "final_report.bbl" 1639436748 3839 6ff8cb6a0b31dd9dea09df26bc87c316 "bibtex final_report"
-  "final_report.out" 1642829133 611 8709c25f979a207cf27b3e6896a2c42d "pdflatex"
+  "final_report.out" 1642833243 611 8709c25f979a207cf27b3e6896a2c42d "pdflatex"
   (generated)
-  "final_report.out"
-  "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final_report.log"
-  "final_report.log"
   "final_report.aux"
   "final_report.pdf"
   "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final_report.pdf"
+  "final_report.out"
+  "final_report.log"
+  "/Users/harvey/Documents/Studies/Physics/Physics c191/Final Project/final report/final_report.log"
