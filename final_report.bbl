@@ -1,0 +1,88 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Biamonte et~al.(2017)Biamonte, Wittek, Pancotti, Rebentrost, Wiebe,
+  and Lloyd]{NatureQML}
+Jacob Biamonte, Peter Wittek, Nicola Pancotti, Patrick Rebentrost, Nathan
+  Wiebe, and Seth Lloyd.
+\newblock Quantum machine learning.
+\newblock \emph{Nature}, 549\penalty0 (7671):\penalty0 195--202, 2017.
+\newblock \doi{10.1038/nature23474}.
+\newblock URL \url{https://doi.org/10.1038/nature23474}.
+
+\bibitem[Sejnowski(2020)]{DeepLearning}
+Terrence~J. Sejnowski.
+\newblock The unreasonable effectiveness of deep learning in artificial
+  intelligence.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 117\penalty0
+  (48):\penalty0 30033--30038, 2020.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.1907373117}.
+\newblock URL \url{https://www.pnas.org/content/117/48/30033}.
+
+\bibitem[E. and R.(2006)]{ScienceRBM}
+Hinton~G. E. and Salakhutdinov~R. R.
+\newblock Reducing the dimensionality of data with neural networks.
+\newblock \emph{Science}, 313\penalty0 (5786):\penalty0 504--507, 2021/12/12
+  2006.
+\newblock \doi{10.1126/science.1127647}.
+\newblock URL \url{https://doi.org/10.1126/science.1127647}.
+
+\bibitem[Amin et~al.(2018)Amin, Andriyash, Rolfe, Kulchytskyy, and Melko]{QBM}
+Mohammad~H. Amin, Evgeny Andriyash, Jason Rolfe, Bohdan Kulchytskyy, and Roger
+  Melko.
+\newblock Quantum boltzmann machine.
+\newblock \emph{Phys. Rev. X}, 8:\penalty0 021050, May 2018.
+\newblock \doi{10.1103/PhysRevX.8.021050}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevX.8.021050}.
+
+\bibitem[Zoufal et~al.(2021)Zoufal, Lucchi, and Woerner]{Zoufal_2021}
+Christa Zoufal, Aur{\'{e}}lien Lucchi, and Stefan Woerner.
+\newblock Variational quantum boltzmann machines.
+\newblock \emph{Quantum Machine Intelligence}, 3\penalty0 (1), feb 2021.
+\newblock \doi{10.1007/s42484-020-00033-7}.
+\newblock URL \url{https://doi.org/10.1007%2Fs42484-020-00033-7}.
+
+\bibitem[McArdle et~al.(2019)McArdle, Jones, Endo, Li, Benjamin, and
+  Yuan]{VariationalQS}
+Sam McArdle, Tyson Jones, Suguru Endo, Ying Li, Simon~C. Benjamin, and Xiao
+  Yuan.
+\newblock Variational ansatz-based quantum simulation of imaginary time
+  evolution.
+\newblock \emph{npj Quantum Information}, 5\penalty0 (1):\penalty0 75, 2019.
+\newblock \doi{10.1038/s41534-019-0187-2}.
+\newblock URL \url{https://doi.org/10.1038/s41534-019-0187-2}.
+
+\bibitem[Crawford et~al.(2019)Crawford, Levit, Ghadermarzy, Oberoi, and
+  Ronagh]{reinforcement}
+Daniel Crawford, Anna Levit, Navid Ghadermarzy, Jaspreet~S. Oberoi, and Pooya
+  Ronagh.
+\newblock Reinforcement learning using quantum boltzmann machines, 2019.
+
+\bibitem[Dixit et~al.(2021{\natexlab{a}})Dixit, Selvarajan, Alam, Humble, and
+  Kais]{TrainingRQBM}
+Vivek Dixit, Raja Selvarajan, Muhammad~A. Alam, Travis~S. Humble, and Sabre
+  Kais.
+\newblock Training restricted boltzmann machines with a d-wave quantum
+  annealer.
+\newblock \emph{Frontiers in Physics}, 9:\penalty0 374, 2021{\natexlab{a}}.
+\newblock ISSN 2296-424X.
+\newblock \doi{10.3389/fphy.2021.589626}.
+\newblock URL
+  \url{https://www.frontiersin.org/article/10.3389/fphy.2021.589626}.
+
+\bibitem[Dixit et~al.(2021{\natexlab{b}})Dixit, Selvarajan, Aldwairi, Koshka,
+  Novotny, Humble, Alam, and Kais]{cyber}
+V.~Dixit, R.~Selvarajan, T.~Aldwairi, Y.~Koshka, M.~A. Novotny, T.~S. Humble,
+  M.~A. Alam, and S.~Kais.
+\newblock Training a quantum annealing based restricted boltzmann machine on
+  cybersecurity data.
+\newblock \emph{IEEE Transactions on Emerging Topics in Computational
+  Intelligence}, pages 1--12, 2021{\natexlab{b}}.
+\newblock \doi{10.1109/TETCI.2021.3074916}.
+
+\end{thebibliography}

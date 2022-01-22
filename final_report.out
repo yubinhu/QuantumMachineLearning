@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{The Boltzmann Machine}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Design}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Supervised and unsupervised machine learning on BM}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Training}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{The Quantum Boltzmann Machine}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Design}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Training a QBM}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Experimental Results}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 10
